@@ -1,7 +1,10 @@
-## Hi there 👋
+## Mert Aygun
 
+<p align="center">
+<strong>Web Applications · Software · Algorithms</strong><br/>
+  Manchester, UK
+</p>
 
-This is **turko-dev/turko-dev**
 
 - 🔭 I’m currently working on DriveStruct
 - 🌱 I’m currently learning C++
