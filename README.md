@@ -12,15 +12,22 @@
 </p>
 
 ## About Me
-My name's Mert Aygun, and I'm a software & web developer from the UK. I'm currently working on drivestruct, a platform that connects learner drivers with driving instructors, besides also developing other software applications that solve real-world problems with technologies such as Next.js, React.js, TypeScript and JavaScript.
+My name is Mert Aygun, and I'm a software & web developer from the UK. I'm currently working on drivestruct, a platform that connects learner drivers with driving instructors, besides also developing other software applications that solve real-world problems with technologies such as Next.js, React.js, TypeScript and JavaScript.
 
 ## Technical Biography
 **Languages & Data**
+<br/>
 `JavaScript` `TypeScript` `HTML` `CSS` `Python` `C++` `SQL`  `C#` `Java`
 
 **Frameworks & Libraries**
+<br/>
 `Next.js` `React.js` `Supabase` `Git` `GitHub` `Electron.js` `Pandas` `NumPy` `Tailwind` `MySQL` `Qt` `REST APIs`
 
+
+## Contact
+- **Email:** info@mertaygun.co.uk
+- **Website:** [mertaygun.co.uk](https://mertaygun.co.uk)
+- **LinkedIn:** [linkedin.com/in/mert-aygun](https://www.linkedin.com/in/mert-aygun)
 
 
 - 🔭 I’m currently working on DriveStruct
