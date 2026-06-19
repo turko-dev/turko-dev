@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/Supabase.js-green?logo=supabase&logoColor=white"/>
 </p>
 
-
-
 ## About Me
 My name is Mert Aygun, and I'm a software & web developer from the UK. I'm currently working on drivestruct, a platform that connects learner drivers with driving instructors, besides also developing other software applications that solve real-world problems with technologies such as Next.js, React.js, TypeScript and JavaScript.
 
@@ -35,6 +33,15 @@ My name is Mert Aygun, and I'm a software & web developer from the UK. I'm curre
 **Frameworks & Libraries**
 <br/>
 `Next.js` `React.js` `Supabase` `Git` `GitHub` `Electron.js` `Pandas` `NumPy` `Tailwind` `MySQL` `Qt` `REST APIs`
+
+## DriveStruct <img src="https://img.shields.io/badge/Repo-0?label=Private&labelColor=red&color=white" />
+DriveStruct is an online platform that helps connect learner drivers with driving instructors using gamified matching and recommendation algorithms. 
+
+## Sterling <img src="https://img.shields.io/badge/Repo-0?label=Public&labelColor=green&color=white" />
+coming soon...
+
+## Pro Learn Driving School <img src="https://img.shields.io/badge/Repo-0?label=Private&labelColor=red&color=white" />
+coming soon...
 
 
 ## Contact
