@@ -3,8 +3,8 @@
 ## Mert Aygun
 
 <p align="center">
-<strong>Web Applications · Software · Algorithms</strong><br/>
-  Manchester, UK
+<strong>Data Engineering & Analysis</strong><br/>
+  Salford, Greater Manchester
 </p>
 
 <p align="center">
